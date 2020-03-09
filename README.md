@@ -7,6 +7,12 @@ see [forcats](https://forcats.tidyverse.org).**
 
 ### foofactors
 
+<!-- badges: start -->
+
+[![R build
+status](https://github.com/ttimbers/foofactors/workflows/R-CMD-check/badge.svg)](https://github.com/ttimbers/foofactors/actions)
+<!-- badges: end -->
+
 Factors are a very useful type of variable in R, but they can also be
 very aggravating. This package provides some helper functions for the
 care and feeding of factors.
@@ -38,7 +44,8 @@ The `fbind()` function glues two factors together and returns factor.
 
 ``` r
 fbind(a, b)
-#> [1] character hits      your      eyeballs  but       integer   where it  counts   
+#> [1] character hits      your      eyeballs  but       integer   where it 
+#> [8] counts   
 #> Levels: but character counts eyeballs hits integer where it your
 ```
 
