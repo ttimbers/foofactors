@@ -11,6 +11,7 @@ see [forcats](https://forcats.tidyverse.org).**
 
 [![R build
 status](https://github.com/ttimbers/foofactors/workflows/R-CMD-check/badge.svg)](https://github.com/ttimbers/foofactors/actions)
+[![codecov](https://codecov.io/gh/ttimbers/foofactors/branch/master/graph/badge.svg)](https://codecov.io/gh/ttimbers/foofactors)
 <!-- badges: end -->
 
 Factors are a very useful type of variable in R, but they can also be
